@@ -3,3 +3,4 @@ rencana hidup muhamad ihsan mutaharrik
 - Menjadi coding tutor online
 - Memiliki pekerjaan sebagai frontend engineer
 - Memulai islamic approach coding school
+- Memahami fungsional Git dan Github
